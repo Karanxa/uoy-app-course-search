@@ -97,3 +97,6 @@ npm run undeploy
 ## Contact
 
 - [Digital Services Teaching and Learning Service Delivery Team](mailto:esg-teaching-and-learning-group@york.ac.uk)
+
+
+<!-- Security scan triggered at 2025-09-02 14:30:22 -->
